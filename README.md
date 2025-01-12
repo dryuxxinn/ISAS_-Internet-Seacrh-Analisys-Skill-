@@ -1,2 +1,2 @@
 # ISAS_-Internet-Seacrh-Analisys-Skill-
-Internet Search Analysis Skill is essential for research, content creation, and decision-making. It involves effective search techniques and source evaluation, and is a mandatory task for CEP CCIT FTUI students.
+Internet Search Analysis Skill is the ability to search for and analyze online information effectively. It involves formulating accurate queries, evaluating the credibility of sources, using advanced search features, and processing results to generate valuable insights. This skill is essential for research, content creation, and data-driven decision-making, and it is also a mandatory assignment for CEP CCIT FTUI students.
